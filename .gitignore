@@ -1,0 +1,9 @@
+*/__pycache__
+*.smt2
+*.out
+*.gas
+*.model
+*.DS_Store
+experiments/results/*
+dataset/gastap_dataset
+.devcontainer/
